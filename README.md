@@ -16,10 +16,10 @@
 
 [001_基础内容操作P2-P8](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/001_基础内容操作/基础内容操作.md)
 
-[002_初学者内容包相关操作P9-P16](https://gitee.com/tsao-chih-kuo/unreal-engine-learn/blob/master/课程章节内容/002_初学者内容包相关操作/初学者内容包相关操作.md)
+[002_初学者内容包相关操作P9-P16](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/002_初学者内容包相关操作/初学者内容包相关操作.md)
 
-[003_资源库的使用P17-P20](https://gitee.com/tsao-chih-kuo/unreal-engine-learn/blob/master/课程章节内容/003_资源库的使用/资源库的使用.md)
+[003_资源库的使用P17-P20](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/003_资源库的使用/资源库的使用.md)
 
-[004_初涉玩家角色P21-P26](https://gitee.com/tsao-chih-kuo/unreal-engine-learn/blob/master/课程章节内容/004_初涉玩家角色/初涉玩家角色.md)
+[004_初涉玩家角色P21-P26](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/004_初涉玩家角色/初涉玩家角色.md)
 
-[005_导入模型P27-P29](https://gitee.com/tsao-chih-kuo/unreal-engine-learn/blob/master/课程章节内容/005_导入模型/导入模型.md)
+[005_导入模型P27-P29](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/005_导入模型/导入模型.md)
