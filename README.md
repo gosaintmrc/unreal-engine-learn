@@ -26,7 +26,7 @@
 
 [006_初涉地形P30-P33](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
 
-[007_初涉视觉效果P34-P39](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[007_初涉视觉效果P34-P39](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉视觉效果/初涉视觉效果.md)
 
 [008_初涉粒子P40](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
 
