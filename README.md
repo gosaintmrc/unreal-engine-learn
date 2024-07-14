@@ -28,7 +28,7 @@
 
 [007_初涉视觉效果P34-P39](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/007_初涉视觉效果/初涉视觉效果.md)
 
-[008_初涉粒子P40](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[008_初涉粒子P40](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/008_初涉粒子/初涉粒子.md)
 
 [009_初涉声音P41-P44](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
 
