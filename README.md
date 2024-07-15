@@ -30,7 +30,7 @@
 
 [008_初涉粒子P40](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/008_初涉粒子/初涉粒子.md)
 
-[009_初涉声音P41-P44](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[009_初涉声音P41-P44](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/009_初涉声音/初涉声音.md)
 
 [010_初涉材质P45-P55](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
 
