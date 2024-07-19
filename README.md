@@ -34,7 +34,7 @@
 
 [010_初涉材质P45-P55](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/010_初涉材质/初涉材质.md)
 
-[011_初涉过场动画P56-P66](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[011_初涉过场动画P56-P66](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/011_初涉过场动画/初涉过场动画.md)
 
 [012_角色入门P67-P89](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
 
