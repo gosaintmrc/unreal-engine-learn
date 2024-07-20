@@ -36,8 +36,8 @@
 
 [011_初涉过场动画P56-P66](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/011_初涉过场动画/初涉过场动画.md)
 
-[012_角色入门P67-P89](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[012_角色入门P67-P89](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/012_角色入门/角色入门.md)
 
-[013_场景入门P90-P104](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[013_场景入门P90-P104](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/013_场景入门/场景入门.md)
 
-[014_构造脚本P105-P110](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/006_初涉地形/初涉地形.md)
+[014_构造脚本P105-P110](https://github.com/gosaintmrc/unreal-engine-learn/blob/main/课程章节内容/014_构造脚本/构造脚本.md)
